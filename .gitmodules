@@ -7,3 +7,8 @@
 	path = fnosilveira/User-Multi-Team-Odoo
 	url = git@github.com:fnosilveira/User-Multi-Team-Odoo.git
 	branch = main
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
